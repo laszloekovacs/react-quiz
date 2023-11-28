@@ -1,4 +1,4 @@
-# https://vitejs.dev/guide/static-deploy.html
+# https://vitejs.dev/guide/static-deploy.html#github-pages
 
 name: deploy static page to pages
 
