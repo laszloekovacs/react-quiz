@@ -4,6 +4,10 @@
 
 A simple react quiz application, where you can pick from a list of questions. At the end you get a score.
 
+## Screenshot
+
+![screenshot](react-quiz.png)
+
 ## Installation
 
 To install and run this project, follow these steps:
